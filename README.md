@@ -1,5 +1,5 @@
 ## 💻 Projeto
-Essa aplicação foi desenvolvida para estudo mas o tema dela é com a tecnologia avançando cada vez mais e as aulas online estão ficando cada vez mais frequentes por causa do COVID-19, essa aplicação é para que pessoas possam estudar e que professores possam dar aulas
+Essa aplicação foi desenvolvida para estudo mas o tema dela é, com a tecnologia avançando cada vez mais e as aulas online estão ficando cada vez mais frequentes por causa do COVID-19, essa aplicação é para que pessoas possam estudar e que professores possam dar aulas
 
 ## 🚀 Tecnologias
 
